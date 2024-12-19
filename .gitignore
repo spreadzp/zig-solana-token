@@ -1,0 +1,5 @@
+solana-zig
+zig-cache/
+zig-out/
+.zig-cache/
+test-ledger

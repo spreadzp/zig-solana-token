@@ -1,0 +1,15 @@
+[package]
+authors = ["Jon C <me@jonc.dev>"]
+description = "Solana Helloworld Zig Program Test"
+edition = "2021"
+license = "Apache-2.0"
+name = "solana-helloworld-zig-program-test"
+repository = "https://github.com/joncinque/solana-helloworld-zig/program-test"
+version = "0.0.1"
+
+[dev-dependencies]
+num_enum = "0.7"
+solana-program = "2.0.3"
+solana-program-test = "2.0.3"
+solana-sdk = "2.0.3"
+test-case = "3"
